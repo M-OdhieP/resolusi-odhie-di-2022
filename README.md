@@ -1,0 +1,1 @@
+# resolusi-odhie-di-2022
