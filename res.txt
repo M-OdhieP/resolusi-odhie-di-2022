@@ -1,4 +1,0 @@
-- bisa framework Node.js
-- bisa dapet kerja developer hehe
-- bisa framework React.js
-- bisa framework php lain
